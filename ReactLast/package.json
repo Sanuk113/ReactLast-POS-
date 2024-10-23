@@ -1,0 +1,24 @@
+{
+    "name": "react-pos-system",
+    "version": "1.0.0",
+    "description": "A React-based Point of Sale system",
+    "main": "index.js",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+    },
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-router-dom": "^6.4.0"
+    },
+    "devDependencies": {
+      "typescript": "^4.6.3",
+      "vite": "^3.0.0",
+      "tailwindcss": "^3.1.8",
+      "autoprefixer": "^10.4.7",
+      "postcss": "^8.4.14"
+    }
+  }
+  
